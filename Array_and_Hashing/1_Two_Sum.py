@@ -17,10 +17,5 @@ class Solution:
             if diff in prevMap:
                 return [prevMap[diff], i]
             prevMap[n] = i
-            dict1 = defaultdict()
-        for i, n in enumerate(nums):
-            x = target - n
-            if x in dict1:
-                return [dict1[x], i]
-            dict1[n] = i
+            
 
