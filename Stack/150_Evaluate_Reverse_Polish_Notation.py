@@ -16,4 +16,4 @@ class Solution:
                 stack.append(int(c))
         return stack[0]
 
-        
+    
