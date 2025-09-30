@@ -6,7 +6,7 @@
 #         self.right = right
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        elf.diameter = 0
+        self.diameter = 0
         # funtion to calculate the height of the subtree starting at node
         def depth(node):
             #If the current node is None, we return 0
