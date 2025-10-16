@@ -1,0 +1,29 @@
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+        #To store the values at each level
+        res= []
+        #function 
+        def dfs(node, depth):
+            #if there are no nodes return empty
+            if not node:
+                return None
+            #If the number of levels in res is equal to the current depth, we will create a new empty list for this level
+            if len(res) == depth:
+                res.append([])
+            #Adding the current node value to its list 
+            res[depth].append(node.val)
+            #Move to the left child by increasing depth
+            dfs(node.left, depth + 1)
+            #Move to the right child by increasing depth
+            dfs(node.right, depth + 1)
+
+        # calling the dfs function from root at depth 0
+        dfs(root, 0)
+        
+        return res
