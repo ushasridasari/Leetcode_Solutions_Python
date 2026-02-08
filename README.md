@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0027-remove-element) |
 | [1929-concatenation-of-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -19,4 +20,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
