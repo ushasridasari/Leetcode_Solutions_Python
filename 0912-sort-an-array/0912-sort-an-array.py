@@ -40,7 +40,9 @@ class Solution:
                 i += 1
         #merge sort function
         def mergeSort(arr, l, r):
+            # Base case: one element is already sorted
             if l >= r:
+                #Stop recursion
                 return
             # Find middle index
             m = (l + r) // 2
@@ -48,7 +50,7 @@ class Solution:
             mergeSort(arr, l , m)
             # Recursively sort right half
             mergeSort(arr, m + 1 , r)
-             # Merge the two sorted halves
+            # Merge the two sorted halves
             merge(arr, l, m, r)
         #Start merge sort on full array
         mergeSort(nums, 0, len(nums) - 1)
