@@ -6,8 +6,9 @@ class Solution:
         n = len(nums)
         #loops through each element in count
         for key in count:
-            count[key]
+            #If the number appears more than n/3 times
             if  count[key] > n // 3:
+                #appending the key value to arr
                 arr.append(key)
         return arr
 
