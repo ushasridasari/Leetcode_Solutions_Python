@@ -11,8 +11,11 @@ class Solution:
         right = n - 1
         #swapping until both pointers meet i.e, at mid value.
         while left < right:
+            #Swaps the characters at the left and right positions.
             s[left], s[right] = s[right], s[left]
+            #Moves the left pointer one step forward.
             left += 1
+            #Moves the right pointer one step backward.
             right -= 1
         
 
