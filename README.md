@@ -26,6 +26,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0567-permutation-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0027-remove-element](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0567-permutation-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 | [0217-contains-duplicate](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
@@ -110,4 +113,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0560-subarray-sum-equals-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
