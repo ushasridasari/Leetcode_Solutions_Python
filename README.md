@@ -15,6 +15,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0706-design-hashmap) |
+| [0739-daily-temperatures](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -117,4 +118,12 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0567-permutation-in-string) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
