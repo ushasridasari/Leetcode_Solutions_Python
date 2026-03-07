@@ -33,6 +33,9 @@ class Solution:
             if level:
                 res.append(level)
         return res
+    
+    #TC: O(n)
+    #SC: O(n)
             
             
         
