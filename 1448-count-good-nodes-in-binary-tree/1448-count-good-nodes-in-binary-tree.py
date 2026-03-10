@@ -10,7 +10,8 @@ class Solution:
         res = 0
         #Creates a queue using deque for BFS traversal.
         q = deque()
-
+        #root → the root node of the binary tree
+        #-float('inf') → negative infinity (the smallest possible number)
         q.append((root,-float('inf')))
         #Runs the loop until the queue becomes empty
         while q:
