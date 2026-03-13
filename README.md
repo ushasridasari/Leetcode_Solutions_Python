@@ -139,6 +139,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -147,6 +148,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -164,9 +166,11 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
