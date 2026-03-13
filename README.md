@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0075-sort-colors) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0217-contains-duplicate) |
@@ -44,6 +45,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0217-contains-duplicate) |
@@ -55,6 +57,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0912-sort-an-array) |
 ## Sorting
@@ -137,6 +140,7 @@
 | [0098-validate-binary-search-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -164,6 +168,7 @@
 | [0098-validate-binary-search-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0230-kth-smallest-element-in-a-bst) |
