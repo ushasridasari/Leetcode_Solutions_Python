@@ -18,6 +18,7 @@
 | [0706-design-hashmap](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1046-last-stone-weight) |
 | [1929-concatenation-of-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -96,6 +97,7 @@
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
