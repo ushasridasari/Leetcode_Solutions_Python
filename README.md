@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -216,6 +217,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
