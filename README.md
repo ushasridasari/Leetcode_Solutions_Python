@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0169-majority-element) |
@@ -210,4 +211,12 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0973-k-closest-points-to-origin) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
