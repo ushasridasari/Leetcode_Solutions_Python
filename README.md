@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0567-permutation-in-string) |
 ## Trie
@@ -128,6 +129,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0022-generate-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
@@ -216,6 +218,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0078-subsets) |
