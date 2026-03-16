@@ -14,11 +14,13 @@ class Solution:
                 return
             #Loops through the numbers starting from index i
             for j in range(i, len(candidates)):
-                #Checks if the current number is a duplicate of the previous number..
+                #Checks if the current number is a duplicate of the previous number.
                 if j > i and candidates[j] == candidates[j - 1]:
+            #Skips this number and moves to the next iteration to avoid duplicate combinations
                     continue
                 #Checks if adding this number makes the sum larger than the target.
                 if total + candidates[j] > target:
+    #Stops the loop because the list is sorted, and all further numbers will also be too large.
                     break
                 #Adds the current number to the combination.
                 curr.append(candidates[j])
