@@ -38,6 +38,7 @@
 | [0014-longest-common-prefix](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0567-permutation-in-string) |
 ## Trie
@@ -135,6 +136,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0022-generate-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0131-palindrome-partitioning) |
 ## Greedy
 |  |
 | ------- |
@@ -230,6 +232,7 @@
 | [0078-subsets](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
