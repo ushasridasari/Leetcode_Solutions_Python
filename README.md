@@ -17,6 +17,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0229-majority-element-ii) |
@@ -185,6 +186,7 @@
 | [0098-validate-binary-search-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -195,6 +197,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0226-invert-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -253,4 +256,9 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
