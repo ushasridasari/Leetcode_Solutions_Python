@@ -28,6 +28,7 @@
 | [0739-daily-temperatures](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1046-last-stone-weight) |
 | [1929-concatenation-of-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -205,6 +206,7 @@
 | [0200-number-of-islands](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -264,6 +266,7 @@
 | [0079-word-search](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
