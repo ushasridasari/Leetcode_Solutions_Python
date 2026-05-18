@@ -53,9 +53,9 @@ class Solution:
 
         #Checks edges from LAST to FIRST
         for u, v in reversed(edges):
-            #If both nodes belong to cycle
+            #If both nodes belong to cycle,  # because problem asks for last edge causing cycle
             if u in cycle and v in cycle:
-                #Returns redundant edge.
+                #Returns redundant edge.i.e, extra edge
                 return [u, v]
 
         return []
