@@ -126,6 +126,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1046-last-stone-weight) |
@@ -200,6 +201,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0684-redundant-connection](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0743-network-delay-time) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -215,6 +217,7 @@
 | [0226-invert-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0226-invert-binary-tree) |
 | [0684-redundant-connection](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -291,9 +294,14 @@
 | [0207-course-schedule](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
