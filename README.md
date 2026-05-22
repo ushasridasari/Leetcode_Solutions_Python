@@ -31,6 +31,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1046-last-stone-weight) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1584-min-cost-to-connect-all-points) |
 | [1929-concatenation-of-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -287,6 +288,7 @@
 | [0200-number-of-islands](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0695-max-area-of-island) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
@@ -295,6 +297,7 @@
 | [0210-course-schedule-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0743-network-delay-time) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -304,4 +307,8 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0743-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
