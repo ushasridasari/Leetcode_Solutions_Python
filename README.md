@@ -11,6 +11,7 @@
 | [0040-combination-sum-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0079-word-search) |
@@ -154,11 +155,13 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0131-palindrome-partitioning) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Prefix Sum
 |  |
