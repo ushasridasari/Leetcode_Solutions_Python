@@ -30,6 +30,7 @@
 | [0705-design-hashset](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0739-daily-temperatures) |
+| [0846-hand-of-straights](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0994-rotting-oranges) |
@@ -82,6 +83,7 @@
 | [0567-permutation-in-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0706-design-hashmap) |
+| [0846-hand-of-straights](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0846-hand-of-straights) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0229-majority-element-ii) |
+| [0846-hand-of-straights](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
@@ -165,6 +168,7 @@
 | [0055-jump-game](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0134-gas-station) |
+| [0846-hand-of-straights](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0846-hand-of-straights) |
 ## Prefix Sum
 |  |
 | ------- |
