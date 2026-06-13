@@ -36,6 +36,7 @@
 | [0994-rotting-oranges](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1584-min-cost-to-connect-all-points) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -169,6 +170,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0134-gas-station) |
 | [0846-hand-of-straights](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0846-hand-of-straights) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Prefix Sum
 |  |
 | ------- |
