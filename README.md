@@ -54,6 +54,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0344-reverse-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0763-partition-labels) |
 ## Trie
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0141-linked-list-cycle](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0763-partition-labels) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | [0567-permutation-in-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0706-design-hashmap) |
+| [0763-partition-labels](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0846-hand-of-straights) |
 ## Divide and Conquer
 |  |
@@ -169,6 +172,7 @@
 | [0055-jump-game](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0134-gas-station) |
+| [0763-partition-labels](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0846-hand-of-straights) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Prefix Sum
