@@ -54,6 +54,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0344-reverse-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0763-partition-labels) |
 ## Trie
 |  |
@@ -166,12 +167,14 @@
 | [0055-jump-game](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0131-palindrome-partitioning) |
+| [0678-valid-parenthesis-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0134-gas-station) |
+| [0678-valid-parenthesis-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0846-hand-of-straights) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -186,6 +189,7 @@
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
