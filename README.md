@@ -12,6 +12,7 @@
 | [0046-permutations](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0078-subsets) |
@@ -102,6 +103,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0215-kth-largest-element-in-an-array) |
