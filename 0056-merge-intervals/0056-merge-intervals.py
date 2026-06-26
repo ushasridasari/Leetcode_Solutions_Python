@@ -1,6 +1,6 @@
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
-        #Sort the intervals based on their starting number
+        #Sort the intervals based on their starting number, key=lambda pair: pair[0]: Use 1st element as the sorting value.
         intervals.sort(key=lambda pair: pair[0])
         #Put the first interval into the result list.
         output = [intervals[0]]
