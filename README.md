@@ -1,1 +1,339 @@
 "# Leetcode_Solutions_Python" 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0560-subarray-sum-equals-k) |
+| [0695-max-area-of-island](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0695-max-area-of-island) |
+| [0705-design-hashset](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0706-design-hashmap) |
+| [0739-daily-temperatures](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0739-daily-temperatures) |
+| [0846-hand-of-straights](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0846-hand-of-straights) |
+| [0912-sort-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0994-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1046-last-stone-weight) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1584-min-cost-to-connect-all-points) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1929-concatenation-of-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1929-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0131-palindrome-partitioning) |
+| [0208-implement-trie-prefix-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0344-reverse-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0763-partition-labels) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0211-design-add-and-search-words-data-structure) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0141-linked-list-cycle) |
+| [0344-reverse-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0763-partition-labels) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0133-clone-graph](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0133-clone-graph) |
+| [0141-linked-list-cycle](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0567-permutation-in-string) |
+| [0705-design-hashset](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0706-design-hashmap) |
+| [0763-partition-labels](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0763-partition-labels) |
+| [0846-hand-of-straights](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0846-hand-of-straights) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0973-k-closest-points-to-origin) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0229-majority-element-ii) |
+| [0846-hand-of-straights](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0846-hand-of-straights) |
+| [0912-sort-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0973-k-closest-points-to-origin) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0229-majority-element-ii) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0141-linked-list-cycle) |
+| [0705-design-hashset](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0706-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0706-design-hashmap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0743-network-delay-time) |
+| [0912-sort-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1046-last-stone-weight) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0912-sort-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0055-jump-game) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0131-palindrome-partitioning) |
+| [0678-valid-parenthesis-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0055-jump-game) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0134-gas-station) |
+| [0678-valid-parenthesis-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0763-partition-labels) |
+| [0846-hand-of-straights](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0846-hand-of-straights) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1899-merge-triplets-to-form-target-triplet) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0560-subarray-sum-equals-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0567-permutation-in-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0739-daily-temperatures) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0098-validate-binary-search-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0226-invert-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0684-redundant-connection](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0743-network-delay-time) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0226-invert-binary-tree) |
+| [0684-redundant-connection](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0743-network-delay-time) |
+| [0994-rotting-oranges](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0994-rotting-oranges) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0098-validate-binary-search-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0703-kth-largest-element-in-a-stream) |
+## Math
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0973-k-closest-points-to-origin) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0131-palindrome-partitioning) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0090-subsets-ii) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0994-rotting-oranges) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0695-max-area-of-island) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1584-min-cost-to-connect-all-points) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0743-network-delay-time) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1584-min-cost-to-connect-all-points) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0743-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1584-min-cost-to-connect-all-points) |
+<!---LeetCode Topics End-->
