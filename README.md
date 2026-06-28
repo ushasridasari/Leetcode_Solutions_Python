@@ -10,6 +10,7 @@
 | [0039-combination-sum](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0056-merge-intervals) |
@@ -271,6 +272,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0048-rotate-image) |
 | [0973-k-closest-points-to-origin](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -301,6 +303,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0200-number-of-islands) |
