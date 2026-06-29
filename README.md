@@ -12,6 +12,7 @@
 | [0046-permutations](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0057-insert-interval) |
@@ -44,6 +45,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
@@ -304,6 +306,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0200-number-of-islands) |
