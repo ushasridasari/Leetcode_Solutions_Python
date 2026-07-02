@@ -75,6 +75,7 @@
 | [0027-remove-element](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0763-partition-labels) |
@@ -87,6 +88,7 @@
 | [0133-clone-graph](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0229-majority-element-ii) |
@@ -277,6 +279,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
