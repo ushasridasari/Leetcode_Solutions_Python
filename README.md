@@ -16,6 +16,7 @@
 | [0055-jump-game](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0079-word-search) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0141-linked-list-cycle) |
@@ -307,6 +309,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0200-number-of-islands) |
