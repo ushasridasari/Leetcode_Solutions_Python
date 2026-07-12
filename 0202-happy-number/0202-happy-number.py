@@ -13,7 +13,7 @@ class Solution:
             if n == 1:
                 #Returns True because the number is happy.
                 return True
-        #Returns False because the numbers started repeating and will never reach 1.
+        #Returns false because the numbers started repeating and will never reach 1.
         return False
 
     #Defines a helper function to calculate the sum of the squares of a number's digits.
