@@ -280,6 +280,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0973-k-closest-points-to-origin) |
@@ -350,4 +351,8 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1584-min-cost-to-connect-all-points) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
