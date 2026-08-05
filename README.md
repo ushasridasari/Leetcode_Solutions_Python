@@ -47,6 +47,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/1929-concatenation-of-array) |
 ## String
@@ -55,6 +56,7 @@
 | [0014-longest-common-prefix](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0208-implement-trie-prefix-tree) |
@@ -279,6 +281,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0066-plus-one) |
