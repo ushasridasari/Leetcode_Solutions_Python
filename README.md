@@ -26,6 +26,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0215-kth-largest-element-in-an-array) |
@@ -313,6 +314,7 @@
 | ------- |
 | [0078-subsets](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0136-single-number) |
 ## Matrix
 |  |
 | ------- |
