@@ -182,6 +182,7 @@
 | [0055-jump-game](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0131-palindrome-partitioning) |
+| [0338-counting-bits](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
@@ -317,6 +318,7 @@
 | [0090-subsets-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0338-counting-bits) |
 ## Matrix
 |  |
 | ------- |
