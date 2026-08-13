@@ -32,6 +32,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0705-design-hashset) |
@@ -96,6 +97,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0705-design-hashset) |
@@ -122,6 +124,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0268-missing-number) |
 | [0846-hand-of-straights](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0973-k-closest-points-to-origin) |
@@ -277,6 +280,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0268-missing-number](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0268-missing-number) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -290,6 +294,7 @@
 | [0050-powx-n](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -320,6 +325,7 @@
 | [0136-single-number](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ushasridasari/Leetcode_Solutions_Python/tree/master/0338-counting-bits) |
 ## Matrix
 |  |
